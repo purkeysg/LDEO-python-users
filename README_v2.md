@@ -14,7 +14,7 @@ Thanks!
 # Class Schedule
 
 Date     | Activity              | Instructor
-------   | --------				 |
+------   | --------				       | -----------
 9-23-15  | Intro to 1-D plotting | Elizabeth Ferriss
 9-30-15  | Intro to 2-D plotting | Takaya Uchida 
 10-7-15  | Github intro			     | Ryan Abernathey
